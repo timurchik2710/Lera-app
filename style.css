@@ -56,6 +56,21 @@
     -webkit-text-fill-color: transparent;
 }
 
+.images-mega {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    display: flex;
+    gap: 20px;
+}
+
+.i {
+    width: 200px;
+    height: 275px;
+    border-radius: 25px;
+}
+
 .p {
     font-size: 30px;
 }
